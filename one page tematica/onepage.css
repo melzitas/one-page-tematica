@@ -1,0 +1,49 @@
+/*comentários (atalho para comentários:
+ ctrl+K ctrl+C)*/
+
+ *{
+    width:auto;
+    height: auto;
+    background-color:rgb(245, 239, 239) ;
+}
+body{
+    width: 98%;
+    height: 100%;
+    padding: 15px;
+}
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.Inicio, .Formacao, .Experiencias, .Tabela{
+    margin-right: 10px;
+    padding: 20px;
+    border: 1px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a{
+    background-color:inherit;
+    color: black;
+    font-style: italic;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.fotoperfil{
+    width: 20%;
+    border-radius: 30%;
+}
+footer {
+    background-color: #79eae8;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px;
+    bottom: 10;
+    width: 100%;
+
+}
+img{
+    width: 160px;
+}
